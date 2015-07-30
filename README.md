@@ -23,9 +23,9 @@ chatterbotapi (included)
 ## On debian based builds:
 
 ### Get the requirements:
-sudo apt-get install mplayer python python-pip python-pyaudio flac espeak
+'sudo apt-get install mplayer python python-pip python-pyaudio flac espeak'
 
-sudo pip install SpeechRecognition
+'sudo pip install SpeechRecognition'
 
 ### Run the program:
 Then simply run 'sudo python james.py'
