@@ -4,13 +4,21 @@ A simple text-to-speech speech-to-text chat bot for Linux running python.
 ## You will need the following Dependencies:
 
 MPlayer
+
 Python
+
 Python-pip
+
 Python-PyAudio
+
 FLAC
+
 SpeechRecognition
+
 eSpeak
+
 chatterbotapi (included)
+
 
 ## On debian based builds:
 
