@@ -25,5 +25,5 @@ while True:
                 print("Could not understand  you")
 
         s = bot1session.think(user_input);
-        subprocess.call('espeak -k 20 -s 140 -v en-rp+m7 "{0}" 2>/dev/null' .fo$
+        subprocess.call('espeak -k20 -s135 -ven-rp*m7 "{0}" 2>/dev/null' .format(s), shell=True)
         print 'James: ' + s
